@@ -38,3 +38,5 @@ On the other hand, when drilling down, it can be seen that Lot 1 and Lot 2 both 
 
 ### Lot 3
 ![Lot Summary](https://github.com/msshahid21/MechaCar_Statistical_Analysis/blob/main/Images/TTestLot3.png)
+
+The t-test for the PSI of all the manufacturing lots, compared to the true mean of 1500 PSI has a p-value of 0.06, which is almost statistically significant. However, when drilling down and performing t-tests for the individual lots against the true mean the picture is slightly different. Only Lot 3 yielded a low p-value at 0.042 while Lot 1 and Lot 2 had a p-value of 1 and 0.61 respectively. Therefore, the t-test for all lots, lot 1, and lot 2 fail to reject the null hypothesis of the true mean being equal to 1500 PSI. While the t-test for Lot 3 yields a statistically significant result, giving enough evidence to reject the null and infer that the population mean is not equal to 1500 PSI.
