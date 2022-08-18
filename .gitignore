@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data Files
+Suspension_Coil.csv
+MechaCar_mpg.csv
+
 # C extensions
 *.so
 
