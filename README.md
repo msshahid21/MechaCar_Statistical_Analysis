@@ -25,3 +25,16 @@ The PSI of the Suspensions amongst all the lots have a variance below the 100 po
 ![Lot Summary](https://github.com/msshahid21/MechaCar_Statistical_Analysis/blob/main/Images/LotSummary.png)
 
 On the other hand, when drilling down, it can be seen that Lot 1 and Lot 2 both meet the benchmark of being below the 100 pounds per square inch PSI at 0.98 and 7.47 respectively, while Lot 3 fails by a substantial amount with 170 pounds per square inch of variance.
+
+## T-Tests on Suspension Coils
+### All Lots
+![Lot Summary](https://github.com/msshahid21/MechaCar_Statistical_Analysis/blob/main/Images/TTestAll.png)
+
+### Lot 1
+![Lot Summary](https://github.com/msshahid21/MechaCar_Statistical_Analysis/blob/main/Images/TTestLot1.png)
+
+### Lot 2
+![Lot Summary](https://github.com/msshahid21/MechaCar_Statistical_Analysis/blob/main/Images/TTestLot2.png)
+
+### Lot 3
+![Lot Summary](https://github.com/msshahid21/MechaCar_Statistical_Analysis/blob/main/Images/TTestLot3.png)
